@@ -5,4 +5,4 @@ const result = 2 + 3;
 assert.strictEqual(result, 5, 'Math test failed!');
 //assert.strictEqual(result, 6, 'Math test failed!');
 
-console.log('✅ All CI checks passed! Boss Makz');
+console.log('✅ All CI checks passed!');
