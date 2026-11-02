@@ -1,8 +1,6 @@
 {
   "name": "ci-cd-live-demo",
   "version": "1.0.0",
-  "description": "Live CI/CD Demonstration Project",
-  "main": "index.html",
   "scripts": {
     "test": "node index.test.js"
   }
